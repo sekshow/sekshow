@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ### Include private repo
-[github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/top-langs/?username=sekshow&layout=compact)
+![github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/top-langs/?username=sekshow&layout=compact)
 <!-- 参考URL:https://qiita.com/SNQ-2001/items/2464ab0fe8e0bb57ab92 -->
 
 <!--
