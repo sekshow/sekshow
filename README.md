@@ -4,6 +4,8 @@
 
 ![github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/?username=sekshow)
 
+![github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/top-langs/?username=sekshow)
+
 <!--
 **sekshow/sekshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
