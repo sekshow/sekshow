@@ -2,7 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
-![github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/top-langs/?username=sekshow)
+# Include private repo
+![github-readme-stats](https://github-readme-stats-clone-sekshow.vercel.app/api/top-langs/?username=sekshow&layout=compact)
 
 
 <!--
